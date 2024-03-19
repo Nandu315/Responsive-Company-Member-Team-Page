@@ -1,0 +1,154 @@
+body{
+    background-color: rgb(238, 195, 143);
+    padding-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    /* background-image:url(logo.jpeg); */
+    
+    background-image:linear-gradient(rgb(228, 182, 182), rgb(228, 219, 219)),url(logo.jpeg); 
+   
+}
+.HEAD{
+    padding-top: 10px;
+    background-color: bisque;
+    height: 3200px;
+    margin-top: 50px;
+    margin-left: 200px;
+    width: 900px;
+    border-radius: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    border-style:double;
+    background-image:linear-gradient(rgb(190, 152, 152), rgb(212, 180, 180)),url(logo.jpeg);     
+}
+.d1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+    background-color: rgb(243, 232, 219);
+    /* border-bottom: px; */
+    font-style: oblique;
+    border-color: rgb(243, 228, 209);
+    border-bottom-style:dotted;
+    border-color: black;
+    box-shadow: 10px;
+    
+  
+}
+#button1{
+    background-color: rgb(116, 116, 114);
+    color: white;
+    font-size: 18px;
+    border-radius: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+   
+    
+}
+#b1:hover{
+    color:rgb(51, 151, 93);
+    #b1:active{
+        color: rgb(54, 35, 35);
+    }
+}
+#b2:hover{
+    color:rgb(51, 151, 93);
+    #b1:active{
+        color: rgb(54, 35, 35);
+    }
+}
+#b3:hover{
+    color:rgb(51, 151, 93);
+    #b1:active{
+        color: rgb(54, 35, 35);
+    }
+}
+#button2{
+    background-color: rgb(197, 197, 175);
+    font-size: 18px;
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-color: aliceblue;
+}
+#n2{
+  margin-top: 30px;
+ margin-left:30px;
+    margin-right: 40px;
+    padding: 5px;
+    padding-right: 1px;
+    
+}
+#n3{
+    margin-top: 30px;
+    margin-left: 500px;
+}
+
+.main img{
+    height: 70px;
+    width: 90px;
+    /* margin:20px; */
+   padding-top: 20px;
+   padding-left: 80px;
+   padding-bottom:1 px;
+   margin-left: 5px;
+
+  
+}
+.main{
+    background-image:linear-gradient(rgb(255, 180, 180), rgb(219, 189, 203)),url(logo.jpeg);
+     
+  
+}
+#b1{
+    /* padding-top: 30px; */
+    margin-left: 180px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    border-style: none;
+    background-image:linear-gradient(rgb(255, 180, 180), rgb(189, 126, 157));
+    
+}
+#b2{
+    /* padding-top: 30px; */
+    margin-left: 100px;
+    margin-right: 60px;
+    margin-bottom: 20px;
+    border-style: none;
+    background-image:linear-gradient(rgb(255, 180, 180), rgb(189, 126, 157));
+}
+#b3{
+    /* padding-top: 30px; */
+    margin-left: 80px;
+    margin-bottom: 20px;
+    border-style: none;
+    background-image:linear-gradient(rgb(255, 180, 180), rgb(189, 126, 157));
+}
+#b{
+    /* padding-top: 30px; */
+    margin-left: 250px;
+    padding-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-color: plum;
+    border-style: none;
+    background-image:linear-gradient(rgb(255, 180, 180), white);
+    font-size: 40px;
+   color: rgb(39, 90, 39);
+   text-decoration:dotted;
+   text-shadow: 10px 15px 5px rgb(25, 80, 25);
+}
+#b:hover{
+    color:rgb(182, 27, 27);
+    border-radius: 50px;
+    
+}
+
+#button1:hover{
+    border-radius: 10px;
+    background-color: rgb(100, 100, 223);
+}
+
+
+
